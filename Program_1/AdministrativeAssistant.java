@@ -1,7 +1,7 @@
 package Program_1;
 /*CSC 205: 12247 / Asynchronous (no meets)
 Program: #1 Company
-Author: Kim Finical & ID# 36283133
+Author: Kim Finical
 Description: Class for AdministrativeAssistant that can access and mutate their data.
 */
 public class AdministrativeAssistant extends Employee implements Hourly {
